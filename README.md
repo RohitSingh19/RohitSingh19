@@ -1,5 +1,8 @@
 # 💫 About Me
-🔭 I’m currently working on full stack .Net core with Angular project.<br>👯 I’m looking to collaborate on .net core, Angular, ReactJs<br>🤝 I’m looking for help with ReactJs<br>🌱 I’m currently learning AWS, System Design<br>
+🔭 I’m currently working on full stack .Net core and Angular project.<br>
+👯 I’m looking to collaborate on .Net core, Angular, ReactJs<br>
+🤝 I’m looking for help with ReactJs<br>
+🌱 I’m currently learning AWS, System Design<br>
 
 
 # 💻 Tech Stack:
