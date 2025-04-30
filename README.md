@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Myself
 🔭 I’m currently working on full stack .Net core, MongoDB and Angular project.<br>
 👯 I’m looking to collaborate on .Net core, Angular, ReactJs<br>
 🤝 I’m looking for help with ReactJs<br>
